@@ -33,7 +33,7 @@ const Sec1 = () => {
               velit perspiciatis esse illo quia doloremque dicta atque dolores
               accusamus dolore rerum inventore labore similique expedita!
             </p>
-            <a href='#' className='btn-txt'>Learn More &rarr</a>
+            <a href='https://github.com' className='btn-txt'>Learn More &rarr</a>
           </div>
           <div className="child-row-1-2">image</div>
         </div>
