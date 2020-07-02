@@ -1,0 +1,13 @@
+.parent{
+    width: 114rem;
+    display: flex;
+    justify-content: space-evenly;
+    margin: auto;
+    padding: 0 6rem;
+
+}
+.child-row-1-2{
+    flex: 1;
+    padding: 1rem;
+    margin: 0 2rem 0 0;
+}
